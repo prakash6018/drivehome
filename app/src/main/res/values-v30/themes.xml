@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.DriveHome" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <!-- Use the full panel even if the firmware reports a display cutout. -->
+        <item name="android:windowLayoutInDisplayCutoutMode">always</item>
+    </style>
+</resources>
