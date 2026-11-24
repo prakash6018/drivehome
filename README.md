@@ -1,5 +1,7 @@
 # DriveHome
 
+[![CI](https://github.com/prakash6018/drivehome/actions/workflows/ci.yml/badge.svg)](https://github.com/prakash6018/drivehome/actions/workflows/ci.yml)
+
 A dashboard-style home screen for Android car head units, built with Kotlin and Jetpack Compose. It replaces the vendor launcher on a cheap Android head unit with one designed for glancing at while driving: big touch targets, a dark glass UI, and the information you need most closest to the driver.
 
 ## Features
